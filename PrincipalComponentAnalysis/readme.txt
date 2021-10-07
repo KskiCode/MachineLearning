@@ -1,4 +1,4 @@
-Principal Component Analysis (PCA)
+## Principal Component Analysis (PCA)
 
 In Machine Learning many tasks include datasets with a lot of attributes. Hence training or finding a right solution can take very a long time. This problem is also know as the "Curse of dimensionality". However, there are various methods that can help to reduce dimensionality during preprocessing. One of the most common way is the Principal Component Analysis (PCA). In PCA first a hyperplane is searched that comes closest to the data, second the data is projected onto this hyperplane.
 
