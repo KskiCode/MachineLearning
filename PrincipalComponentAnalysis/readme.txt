@@ -18,5 +18,7 @@ The main.py follows 4 simple steps:
 #3: Calculating the Eigenvalues and Eigenvectors of Matrix C
 # 4: Calculating the share of variance of each principal component
 
+More information about PCA: https://en.wikipedia.org/wiki/Principal_component_analysis
+
 
 KskiCode
